@@ -7,9 +7,7 @@
 
 <img width="305" alt="Снимок экрана 2022-12-17 в 11 53 31" src="https://user-images.githubusercontent.com/114616202/208234178-d0f7eb6d-c0ec-4696-8955-c475e10cd357.png">
 
-Затем в терминале ввести команду pip install python-telegram-bot --pre
-
-Тут мы создали терминал и пишем в него команду выше
+Тут мы создаём терминал и пишем в него команду pip install python-telegram-bot --pre
 
 <img width="371" alt="Снимок экрана 2022-12-10 в 14 44 50" src="https://user-images.githubusercontent.com/114616202/206853396-7c58136e-562d-4b76-b962-75f403fdd5a2.png">
 
