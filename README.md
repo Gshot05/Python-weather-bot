@@ -2,6 +2,7 @@
 Нужно установить Visual Studio Code(https://code.visualstudio.com/?wt.mc_id=DX_841432)
 
 Также надо будет установить Python с официального сайта(https://www.python.org/downloads/)
+
 Далее установить расширение для Python в самом Visual Studio Code
 
 <img width="305" alt="Снимок экрана 2022-12-17 в 11 53 31" src="https://user-images.githubusercontent.com/114616202/208234178-d0f7eb6d-c0ec-4696-8955-c475e10cd357.png">
