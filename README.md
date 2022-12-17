@@ -1,5 +1,6 @@
 # Python-weather-bot
 Нужно установить Visual Studio Code(https://code.visualstudio.com/?wt.mc_id=DX_841432)
+
 Также надо будет установить Python с официального сайта(https://www.python.org/downloads/)
 Далее установить расширение для Python в самом Visual Studio Code
 
